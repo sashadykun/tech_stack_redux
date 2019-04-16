@@ -1,1 +1,1 @@
-### Tech stach app build with React Native  and Redux
+### Tech stack app build with React Native  and Redux
