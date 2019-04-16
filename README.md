@@ -1,0 +1,1 @@
+### Tech stach app build with React Native  and Redux
